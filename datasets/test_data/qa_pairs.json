@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q001",
+    "question": "How do I reset my password?",
+    "expected_answer": "Navigate to the login page and click Forgot Password. Enter your registered email address and you will receive a reset link within 5 minutes.",
+    "category": "authentication"
+  },
+  {
+    "id": "q002",
+    "question": "What file formats are supported for bulk employee import?",
+    "expected_answer": "The platform supports CSV and XLSX file formats. Files must not exceed 10 MB and should follow the provided import template.",
+    "category": "data_import"
+  },
+  {
+    "id": "q003",
+    "question": "What is the support response SLA for Enterprise plan customers?",
+    "expected_answer": "Enterprise plan customers are entitled to a 4-hour response SLA with access to a dedicated account manager.",
+    "category": "support"
+  },
+  {
+    "id": "q004",
+    "question": "How is employee data protected?",
+    "expected_answer": "Employee data is encrypted at rest using AES-256 and in transit using TLS 1.3. Access is controlled via role-based permissions.",
+    "category": "security"
+  },
+  {
+    "id": "q005",
+    "question": "What happens to my data after I cancel my subscription?",
+    "expected_answer": "Data is retained for 90 days in a read-only state after cancellation, then permanently deleted in accordance with GDPR and CCPA requirements.",
+    "category": "data_retention"
+  }
+]
