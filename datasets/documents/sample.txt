@@ -1,0 +1,31 @@
+TechCorp Enterprise Suite — Product FAQ
+
+Q: What is TechCorp Enterprise Suite?
+A: TechCorp Enterprise Suite is a cloud-based platform for managing HR, payroll, and compliance workflows for mid-to-large organizations.
+
+Q: How do I reset my password?
+A: Navigate to the login page and click "Forgot Password." Enter your registered email address and you will receive a reset link within 5 minutes.
+
+Q: What data formats are supported for bulk employee import?
+A: The platform supports CSV and XLSX file formats for bulk employee data import. Files must not exceed 10 MB and should follow the provided import template.
+
+Q: How is employee data secured?
+A: All employee data is encrypted at rest using AES-256 and in transit using TLS 1.3. Access is controlled via role-based permissions (RBAC).
+
+Q: What is the SLA for customer support?
+A: Standard plan customers receive a 24-hour response SLA. Enterprise plan customers are entitled to a 4-hour response SLA with access to a dedicated account manager.
+
+Q: Can the platform integrate with third-party payroll providers?
+A: Yes. TechCorp Enterprise Suite supports native integrations with ADP, Gusto, and Paychex via REST API. Custom integrations are available on the Enterprise plan.
+
+Q: Is there a mobile application available?
+A: A mobile app is available for iOS (14+) and Android (10+). It supports employee self-service features including leave requests, payslip access, and directory lookup.
+
+Q: How do I generate a compliance report?
+A: Go to Reports > Compliance, select the reporting period and jurisdiction, then click "Generate Report." Reports are exported as PDF or CSV.
+
+Q: What happens to my data if I cancel my subscription?
+A: Upon cancellation, your data is retained for 90 days in a read-only state. After 90 days, all data is permanently deleted in accordance with GDPR and CCPA requirements.
+
+Q: How do I add a new department?
+A: In the admin panel, navigate to Organization > Departments and click "Add Department." Enter the department name, reporting manager, and cost center code, then save.
